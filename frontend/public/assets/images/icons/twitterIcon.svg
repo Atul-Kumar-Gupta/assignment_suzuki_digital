@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="twitter" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 40 40" style="enable-background:new 0 0 40 40;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_00000040533343064958421380000010698360309991528104_);fill:#494949;}
+	.st1{clip-path:url(#SVGID_00000040533343064958421380000010698360309991528104_);fill:#FFFFFF;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="40" height="40"/>
+	</defs>
+	<clipPath id="SVGID_00000166643159162273100080000002649324330790808727_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<path style="clip-path:url(#SVGID_00000166643159162273100080000002649324330790808727_);fill:#494949;" d="M4.69,0h30.62
+		C37.9,0,40,2.1,40,4.69v30.62C40,37.9,37.9,40,35.31,40H4.69C2.1,40,0,37.9,0,35.31V4.69C0,2.1,2.1,0,4.69,0z"/>
+	<path style="clip-path:url(#SVGID_00000166643159162273100080000002649324330790808727_);fill:#FFFFFF;" d="M27.81,7.81h4.14
+		l-9.03,10.33l10.63,14.05h-8.32l-6.52-8.52l-7.46,8.52H7.1l9.66-11.04L6.57,7.81h8.53l5.89,7.79L27.81,7.81z M26.35,29.71h2.29
+		L13.85,10.16H11.4L26.35,29.71z"/>
+</g>
+</svg>
